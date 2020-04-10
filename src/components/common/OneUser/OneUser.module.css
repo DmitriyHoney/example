@@ -1,0 +1,18 @@
+.section {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 45%;
+    margin-top: 25px;
+}
+
+.status {
+    order: 1;
+    width: 100%;
+    padding-left: 85px;
+    color: #ccc;
+}

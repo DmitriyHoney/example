@@ -1,0 +1,34 @@
+.userProfileCard {
+    width: 50%;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.userAvatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    box-shadow: 0 0 13px 2px #00000052;
+    margin-right: 25px;
+}
+
+.userWrap {
+    display: flex;
+    align-items: center;
+}
+
+.userAbout {
+    margin-left: auto;
+}
+
+.userInfo {
+    width: 70%;
+}
+
+.userSocial {
+    margin-top: 25px;
+    box-shadow: 0 0 13px 2px #00000012;
+    padding: 5px;
+    border-radius: 5px;
+}

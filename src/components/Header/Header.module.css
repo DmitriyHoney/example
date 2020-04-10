@@ -1,0 +1,28 @@
+.section {
+    padding: 25px;
+    background-color: coral;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login {
+    color: #fff;
+    font-size: 20px;
+}
+
+.login:hover {
+    text-decoration: underline;
+}
+
+
+.logo {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.logo:hover {
+    text-decoration: underline;
+}

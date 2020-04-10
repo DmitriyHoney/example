@@ -1,0 +1,16 @@
+.section {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+.name {
+    color: #4b4b4b;
+    font-weight: 400;
+}
